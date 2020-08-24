@@ -1,2 +1,2 @@
 # Google API Key
-gkey = ""
+gkey = "AIzaSyCcVAPkyDS6uK6Adpr7StJ0qN7f_q-gpQM"
