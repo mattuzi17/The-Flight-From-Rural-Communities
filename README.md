@@ -1,0 +1,6 @@
+# The-Flight-From-Rural-Communities
+This project attempts to discover possible relationships between the California wildfires and the California housing market. The datasets used will include the Zillow home value index (ZHVI) and a public data set on California Wildfires from 2013-2020. We attempt to capture price points of a select group of Northern California cities near wildfire hotspots before and after wildfire incidents. 
+Have real estate values of cities near wildfire hotspots been significantly impacted by local rural communities?  Are Californians leaving small towns in favor of cities due to wildfires?
+Our model showed California prices were predicted to increase. While they do increase, they start to concentrate under $650K representing a ceiling in the greater market beginning in 2018.
+Findings:Rural California housing markets are declining.  There is a possible connection between wildfires.  In addition there is possible connection to wildfires impacting nearby cities along major freeways.  There is an accelerating trend in those markets which does not match the flattening market of overall California Real Estate.  
+Caution should be used when investing in real estate in small towns and property above the $650K ceiling.  
